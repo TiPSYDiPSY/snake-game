@@ -4,7 +4,7 @@ Self made copy of retro game snake
 
 ## Description
 
-his project was made for gaining experience in python and developing game for fun using only standart library.
+This project was made for gaining experience in python and developing game for fun using only standart library.
 
 ## Usage
 
